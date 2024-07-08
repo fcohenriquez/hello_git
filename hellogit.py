@@ -1,3 +1,3 @@
 
 print ("hello git")
-print ("como estas")
+print ("prueba")
